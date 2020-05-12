@@ -1,0 +1,88 @@
+html {
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    
+  }
+  .main-header {
+    padding-bottom: 15%;
+    width: 100%;
+    background-size: cover;
+    background-image: url("../images/header.jpg");
+    background-attachment: fixed;
+  }
+
+  header {
+  }
+  header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+  header ul a {
+  }
+  header li {
+  }
+  header ul:after {
+  }
+  .main-header img {
+    background-image: url("achieve.ping");
+  }
+  .container img {
+    background-image: url("../../images-master/achieve.png");
+    position: center;
+  }
+
+  
+  .section p {
+    text-align: justify;
+  }
+  .about h1 {
+    text-align: center;
+  }
+
+  .function h1 {
+    text-align: center;
+  }
+
+  .function-image {
+    display: inline-block;
+   }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rebeccapurple;
+    color: white;
+    text-align: center;
+    height: 100px;
+  }
+
+  .footer p {
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+    vertical-align: middle;
+    display: fixed;
+}
+
+  .top_menu li :hover {
+      text-decoration: solid;
+  }
+  .top_menu li {
+      color: #fff;
+      display: block;
+      padding: 15px;
+      float: left;
+  }
+  .main-menu {
+      float: right;
+  }
+  .section h1 {
+      position: center;
+ }
+
+  
